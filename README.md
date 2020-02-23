@@ -1,4 +1,4 @@
-# 478program1
+# CS478 Program1
 UIC CS CS478 Spring 2020 Program 1
 
 The app starts off with a main activity containing a welcome text and two buttons. 
