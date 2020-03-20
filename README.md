@@ -1,5 +1,4 @@
-# CS478 Program 1
-UIC CS478 Spring 2020 Program 1
+# UIC CS 478 Spring 2020 Program 1
 
 The app starts off with a main activity containing a welcome text and two buttons. 
 Upon pressing the first button, your app displays a second activity containing a read-only text field and an edit text field. 
